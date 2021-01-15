@@ -1,4 +1,4 @@
-<?php
-echo"hola Mundo\n"
-echo"Marquez Pincay Jean"
+<? php
+echo "hola Mundo \ n";
+echo "Marquez Pincay Jean";
 php?
