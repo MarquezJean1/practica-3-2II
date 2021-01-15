@@ -1,4 +1,5 @@
 <? php
 echo "hola Mundo \ n";
 echo "Marquez Pincay Jean";
+echo "dia 15-01-2021";
 php?
